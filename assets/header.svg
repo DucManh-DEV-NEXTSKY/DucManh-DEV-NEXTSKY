@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Tran Duc Manh, E-commerce Web Developer">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1220"/><stop offset="1" stop-color="#18223A"/></linearGradient>
+  <linearGradient id="role" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#95BF47"/><stop offset="1" stop-color="#3FC1C9"/></linearGradient>
+  <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#95BF47" stop-opacity=".9"/><stop offset="1" stop-color="#3FC1C9" stop-opacity=".55"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#FFFFFF" opacity=".06"/></pattern>
+  <clipPath id="card"><rect width="1000" height="260" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="1000" height="260" fill="url(#bg)"/>
+  <rect width="1000" height="260" fill="url(#dots)"/>
+  <circle cx="860" cy="-40" r="220" fill="#95BF47" opacity=".07"/>
+  <circle cx="560" cy="300" r="160" fill="#3FC1C9" opacity=".06"/>
+</g>
+<g transform="translate(48 0)">
+  <rect x="0" y="40" width="196" height="28" rx="14" fill="#95BF47" fill-opacity=".12" stroke="#95BF47" stroke-opacity=".45"/>
+  <circle cx="16" cy="54" r="4.5" fill="#95BF47"/>
+  <text x="28" y="59" font-size="13" font-weight="600" fill="#C6E39A">Open to work · Freelance</text>
+  <text x="0" y="122" font-size="48" font-weight="700" fill="#F0F6FC" letter-spacing="-0.5">Tran Duc Manh</text>
+  <text x="0" y="158" font-size="24" font-weight="600" fill="url(#role)">E-commerce Web Developer</text>
+  <text x="0" y="190" font-size="16" fill="#9DA7B3">Shopify themes · WordPress / WooCommerce · Laravel</text>
+  <path transform="translate(0 205) scale(0.75)" fill="#95BF47" d="M15.337 23.979l7.216-1.561s-2.604-17.613-2.625-17.73c-.018-.116-.114-.192-.211-.192s-1.929-.136-1.929-.136-1.275-1.274-1.439-1.411c-.045-.037-.075-.057-.121-.074l-.914 21.104h.023zM11.71 11.305s-.81-.424-1.774-.424c-1.447 0-1.504.906-1.504 1.141 0 1.232 3.24 1.715 3.24 4.629 0 2.295-1.44 3.76-3.406 3.76-2.354 0-3.54-1.465-3.54-1.465l.646-2.086s1.245 1.066 2.28 1.066c.675 0 .975-.545.975-.932 0-1.619-2.654-1.694-2.654-4.359-.034-2.237 1.571-4.416 4.827-4.416 1.257 0 1.875.361 1.875.361l-.945 2.715-.02.01zM11.17.83c.136 0 .271.038.405.135-.984.465-2.064 1.639-2.508 3.992-.656.213-1.293.405-1.889.578C7.697 3.75 8.951.84 11.17.84V.83zm1.235 2.949v.135c-.754.232-1.583.484-2.394.736.466-1.777 1.333-2.645 2.085-2.971.193.501.309 1.176.309 2.1zm.539-2.234c.694.074 1.141.867 1.429 1.755-.349.114-.735.231-1.158.366v-.252c0-.752-.096-1.371-.271-1.871v.002zm2.992 1.289c-.02 0-.06.021-.078.021s-.289.075-.714.21c-.423-1.233-1.176-2.37-2.508-2.37h-.115C12.135.209 11.669 0 11.265 0 8.159 0 6.675 3.877 6.21 5.846c-1.194.365-2.063.636-2.16.674-.675.213-.694.232-.772.87-.075.462-1.83 14.063-1.83 14.063L15.009 24l.927-21.166z"/>
+  <text x="26" y="220" font-size="14" fill="#C9D1D9">Core developer of <tspan font-weight="700" fill="#F0F6FC">Purity</tspan> · live on the Shopify Theme Store</text>
+</g>
+<g>
+  <rect x="640" y="34" width="322" height="192" rx="12" fill="#121829" stroke="#2A3448"/>
+  <circle cx="656" cy="48" r="4" fill="#FF5F57"/><circle cx="670" cy="48" r="4" fill="#FEBC2E"/><circle cx="684" cy="48" r="4" fill="#28C840"/>
+  <rect x="700" y="43" width="150" height="10" rx="5" fill="#222B3D"/>
+  <rect x="656" y="64" width="40" height="8" rx="4" fill="#3A4660"/>
+  <rect x="790" y="64" width="30" height="8" rx="4" fill="#2C3850"/><rect x="828" y="64" width="30" height="8" rx="4" fill="#2C3850"/><rect x="866" y="64" width="30" height="8" rx="4" fill="#2C3850"/>
+  <rect x="930" y="62" width="16" height="12" rx="3" fill="#95BF47"/>
+  <rect x="656" y="82" width="290" height="62" rx="8" fill="url(#hero)"/>
+  <rect x="670" y="96" width="110" height="10" rx="5" fill="#0D1220" opacity=".55"/>
+  <rect x="670" y="114" width="70" height="8" rx="4" fill="#0D1220" opacity=".4"/>
+  <rect x="670" y="128" width="44" height="10" rx="5" fill="#F0F6FC" opacity=".85"/>
+  <rect x="656" y="154" width="92" height="44" rx="6" fill="#222B3D"/><rect x="664" y="162" width="28" height="28" rx="5" fill="#2C3850"/><rect x="698" y="165" width="40" height="6" rx="3" fill="#3A4660"/><rect x="698" y="178" width="24" height="6" rx="3" fill="#95BF47" opacity="0.9"/>
+  <rect x="759" y="154" width="92" height="44" rx="6" fill="#222B3D"/><rect x="767" y="162" width="28" height="28" rx="5" fill="#2C3850"/><rect x="801" y="165" width="40" height="6" rx="3" fill="#3A4660"/><rect x="801" y="178" width="24" height="6" rx="3" fill="#95BF47" opacity="0.7"/>
+  <rect x="862" y="154" width="92" height="44" rx="6" fill="#222B3D"/><rect x="870" y="162" width="28" height="28" rx="5" fill="#2C3850"/><rect x="904" y="165" width="40" height="6" rx="3" fill="#3A4660"/><rect x="904" y="178" width="24" height="6" rx="3" fill="#95BF47" opacity="0.5"/>
+</g>
+</svg>
