@@ -38,7 +38,19 @@ A beauty theme sold on the Shopify Theme Store ($300), rated 100% positive acros
 - **Roadmap from real merchants:** I audit stores that bought the theme (personas, bugs, features they struggle with) and write the specs for the next updates.
 - **Release quality:** I test and accept tasks from teammates and other teams, then QA each release against Shopify Theme Store requirements before submission.
 - **Team and merchants:** I train new developers, write documentation, answer support tickets and build custom requests for merchants.
-- **Version 1.6.0 (October – November 2026):** I built the styling, layouts and demo setup for the new Pet preset (Yum), and video slides for the image-with-text carousel. I turned the merchant research into 25 update tasks, checked each one on the 1.6.0 release with Theme Editor screenshots, and filed the first 15 in the team's task tool.
+
+I have worked on every release up to 1.6.0, with 196 of my pull requests merged since October 2025.
+
+| Release | What I built |
+| :--- | :--- |
+| 1.0.x · 10/2025 – 02/2026 | Post-launch fixes; media lightbox, before-you-leave popup, back-in-stock notice, compact bundle grid. Fashion preset (Liora): outfit finder and outfit builder, size recommender, model size and product sizing blocks, custom options, preset cards, store locations. |
+| 1.0.9 · 03 – 04/2026 | Right-to-left language support, accessibility fixes, parallax split, icon box, newsletter popup, recent and popular searches, policy page, refactor of theme block settings. |
+| 1.1.0 · 04 – 05/2026 | Quick order list, mini cart and cart page, bundle total price, scroll animations, theme features page, CSS split into critical and theme files. |
+| 1.2.0 · 06 – 07/2026 | Font system, search popup, testimonials, countdown block, metrics banner, before-and-after results, image with text, carousel slide reveal. |
+| 1.3.0 · 08/2026 | Build your routine, sticky content, review showcase, story tabs preset for the flexible section. |
+| 1.4.0 · 08/2026 | Header layouts, tiered free shipping bar in cart and mini cart, review counter, country flags served by Shopify instead of bundled images. |
+| 1.5.0 · 10/2026 | Free shipping bar logic and layout fix. |
+| 1.6.0 · 10 – 11/2026 | Pet preset (Yum): styling, layouts and demo setup. Image-with-text carousel with video slides, recommended collection "form with image" layout, animation flash fix. Turned the merchant research into 25 update tasks, checked each on 1.6.0 with Theme Editor screenshots, and filed the first 15 in the team's task tool. |
 
 Also contributed to: Novy, Woomen, Glozin.
 
