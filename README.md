@@ -11,7 +11,11 @@
 - Merchant support on ThemeForest and the Shopify Theme Store: tickets, fixes and custom features.
 - Freelance: 2 WooCommerce stores delivered end to end, 2 Laravel business systems, and an open-source WooCommerce store kit.
 
-**Roles I fit:** Shopify Theme Developer / Shopify Developer · Front-end Developer for e-commerce · WordPress / WooCommerce Developer · technical Business Analyst or QA for e-commerce products. Open to full-time and freelance work.
+**Roles I fit:** Shopify Theme Developer / Shopify Developer · Front-end Developer for e-commerce · WordPress / WooCommerce Developer · technical Business Analyst or QA for e-commerce products.
+
+**Location and availability:** Hanoi, Vietnam · open to remote · freelance projects outside working hours.
+
+**Languages:** Vietnamese (native) · English, TOEIC Listening & Reading 765 (2025) · Chinese, studying at HSK 3 level.
 
 [![Email](https://img.shields.io/badge/Email-manhtd.work%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manhtd.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ducmanh02-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ducmanh02/)

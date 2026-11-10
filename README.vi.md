@@ -11,7 +11,11 @@
 - Chăm sóc merchant trên ThemeForest và Shopify Theme Store: xử lý ticket, sửa lỗi và làm tính năng custom.
 - Freelance: bàn giao trọn gói 2 cửa hàng WooCommerce, 2 hệ thống nghiệp vụ Laravel và một bộ khởi tạo cửa hàng WooCommerce mã nguồn mở.
 
-**Vị trí phù hợp:** Shopify Theme Developer / Shopify Developer · Front-end Developer mảng thương mại điện tử · WordPress / WooCommerce Developer · Business Analyst hoặc QA kỹ thuật cho sản phẩm thương mại điện tử. Sẵn sàng làm full-time và freelance.
+**Vị trí phù hợp:** Shopify Theme Developer / Shopify Developer · Front-end Developer mảng thương mại điện tử · WordPress / WooCommerce Developer · Business Analyst hoặc QA kỹ thuật cho sản phẩm thương mại điện tử.
+
+**Địa điểm và hình thức:** Hà Nội · nhận làm remote · nhận dự án freelance ngoài giờ.
+
+**Ngoại ngữ:** tiếng Việt (bản ngữ) · tiếng Anh, TOEIC Nghe - Đọc 765 (2025) · tiếng Trung, đang học trình độ HSK 3.
 
 [![Email](https://img.shields.io/badge/Email-manhtd.work%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manhtd.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ducmanh02-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ducmanh02/)
