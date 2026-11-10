@@ -35,9 +35,9 @@ A beauty theme sold on the Shopify Theme Store ($300), rated 100% positive acros
 [Theme Store](https://themes.shopify.com/themes/purity/presets/purity) · [Live demo](https://purity.nextsky.co/)
 
 - **Core developer:** I build most of the theme's sections and core features in Liquid, JavaScript and Web Components.
-- **Roadmap from real merchants:** I audit stores that bought the theme (personas, bugs, features they struggle with) and write the specs for the next updates.
+- **Roadmap from real merchants:** what goes into each update comes from my store audits and competitor research (see [Beyond code](#beyond-code-research-qa-and-merchant-support)).
 - **Release quality:** I test and accept tasks from teammates and other teams, then QA each release against Shopify Theme Store requirements before submission.
-- **Team and merchants:** I train new developers, write documentation, answer support tickets and build custom requests for merchants.
+- **Team:** I train new developers and write the theme documentation.
 - **Every release, still ongoing:** I have worked on every Purity release up to the current 1.6.0 and keep building the next ones, with 196 pull requests merged since October 2025.
 
 Also contributed to: Novy, Woomen, Glozin.
@@ -53,6 +53,7 @@ I developed Laurel, a new NextSky theme (not yet released), and I am finishing i
 - **Settings instead of hardcoded CSS:** I turned design differences into theme settings that every preset can use: rating block style, vendor and price position on product cards, mobile heading sizes, progress-line pagination for featured collections, and the footer country picker.
 - **Clean preset CSS:** I removed rules that did nothing and moved sizes to type tokens.
 - **Release flow:** each change lands on the development branch first, then syncs to the live demo branch.
+- **QA owner:** I also test Laurel: live demo test rounds, regression, package tests and Lighthouse checks before submission.
 
 ### Client stores · WordPress / WooCommerce · freelance, delivered
 
@@ -89,6 +90,31 @@ A reusable starter kit I extracted from the veterinary store, so the next WooCom
 
 - **Agency CRM:** Laravel 13, Filament 5, Livewire 4, PostgreSQL. Covers leads and sales pipeline, versioned quotes, contracts, projects, handover and warranty, receivables and payables, and renewal reminders for client domains and hosting. Adds an audit history and encrypted backups. Also a public landing page that takes its pricing from the CRM's service packages, with a lead form, and role-based user guides for sales and technical staff. Built solo.
 - **Multi-tier distributor platform:** Laravel. Storefront, agent portal and admin, with 3-tier commissions, a daily bonus pool, ranks, VietQR payments and an immutable wallet ledger. I also did the business analysis and design: 14 modules, 607 business rules, 143 use cases and 540 acceptance test cases. Built so far: agent tree, wallet and commissions, bonus pool, ranks, withdrawals, product combos, refunds, security hardening, and a versioned CMS with SEO, with CI set up.
+
+## Beyond code: research, QA and merchant support
+
+Most of this work happens in the team's task tool and the support desk, so it does not show on GitHub. It is also where I add the most value: I know how merchants really use our themes, and I make sure what we ship works for them.
+
+**Merchant research that drives the roadmap**
+
+- I have audited more than 1,000 live stores built on our themes and on competing themes.
+- For each store I look at how the merchant set the theme up and uses it, which bugs and setup problems they ran into, and which features they had to add with third-party apps because the theme did not cover them.
+- I group merchants into personas, such as specialist skincare brands, clean beauty brands and large retailers, and describe how each one builds and uses its store.
+- I benchmark competing themes on the Shopify Theme Store: feature coverage, Theme Editor experience, performance, and how their code solves the same problems.
+- I turn the findings into a prioritised backlog. Each task states the merchant problem, the evidence, acceptance criteria and a test plan, so the team builds what merchants need instead of copying competitors.
+- I bring the same approach to freelance work: for the distributor platform above I wrote 607 business rules and 540 acceptance test cases before any code.
+
+**Quality assurance**
+
+- I write test plans and run test rounds and regression on theme live demos: every template, navigation, forms, filters, variants, cart, quick view, popups and search.
+- Before each Shopify Theme Store submission I run package tests and Lighthouse checks, then follow up on the review team's feedback.
+- I accept teammates' work, including tasks built with AI, against its definition of done.
+
+**Merchant support**
+
+- I answer support tickets from merchants who bought NextSky themes on ThemeForest and the Shopify Theme Store: I find the cause in their store, fix it, and build the custom features they ask for.
+- After a ticket is solved I follow up with the merchant and ask for a rating, which keeps our theme ratings high.
+- Problems that keep coming back in tickets go into the research above and become fixes in the next release.
 
 ## Working with AI
 

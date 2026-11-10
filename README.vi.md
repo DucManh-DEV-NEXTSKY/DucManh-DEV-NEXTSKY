@@ -35,9 +35,9 @@ Theme ngành làm đẹp bán trên Shopify Theme Store (300 USD), 100% đánh g
 [Theme Store](https://themes.shopify.com/themes/purity/presets/purity) · [Demo](https://purity.nextsky.co/)
 
 - **Core developer:** phát triển phần lớn section và tính năng lõi của theme bằng Liquid, JavaScript và Web Components.
-- **Lộ trình từ merchant thật:** audit các store đã mua theme (persona, lỗi, tính năng họ dùng chưa được) và viết đặc tả cho các bản cập nhật.
+- **Lộ trình từ merchant thật:** nội dung của mỗi bản cập nhật đến từ các đợt khảo sát store và nghiên cứu đối thủ do tôi thực hiện (xem [Ngoài code](#ngoài-code-nghiên-cứu-qa-và-chăm-sóc-merchant)).
 - **Chất lượng phát hành:** test và nghiệm thu task của thành viên và các team khác, QA từng bản phát hành theo yêu cầu của Shopify Theme Store trước khi submit.
-- **Đội ngũ và merchant:** đào tạo nhân sự mới, viết tài liệu, trực support và làm các yêu cầu custom cho merchant.
+- **Đội ngũ:** đào tạo nhân sự mới và viết tài liệu cho theme.
 - **Tham gia mọi bản phát hành, đến nay vẫn tiếp tục:** tôi làm tất cả các bản của Purity đến bản 1.6.0 hiện tại và tiếp tục phát triển các bản tiếp theo, với 196 pull request đã merge từ tháng 10/2025.
 
 Có tham gia thêm: Novy, Woomen, Glozin.
@@ -53,6 +53,7 @@ Tôi đã phát triển Laurel, một theme mới của NextSky (chưa phát hà
 - **Setting thay cho CSS cứng:** chuyển các điểm khác biệt của thiết kế thành setting dùng được cho mọi preset: kiểu block đánh giá, vị trí vendor và giá trên thẻ sản phẩm, cỡ tiêu đề trên mobile, phân trang dạng thanh tiến trình cho featured collection, bộ chọn quốc gia ở footer.
 - **CSS preset gọn:** bỏ các rule không có tác dụng và chuyển cỡ chữ sang type token.
 - **Quy trình phát hành:** mỗi thay đổi vào nhánh phát triển trước, sau đó đồng bộ sang nhánh demo live.
+- **Phụ trách QA:** tôi cũng test Laurel: các vòng test demo live, regression, test package và kiểm tra Lighthouse trước khi submit.
 
 ### Cửa hàng cho khách · WordPress / WooCommerce · freelance, đã bàn giao
 
@@ -89,6 +90,31 @@ Bộ khởi tạo dùng lại được, tách ra từ dự án cửa hàng thú 
 
 - **CRM cho agency:** Laravel 13, Filament 5, Livewire 4, PostgreSQL. Gồm khách hàng và pipeline bán hàng, báo giá theo phiên bản, hợp đồng, dự án, bàn giao và bảo hành, công nợ phải thu và phải trả, nhắc gia hạn tên miền và hosting của khách. Có lịch sử thay đổi và backup mã hoá. Kèm landing page công khai lấy bảng giá từ các gói dịch vụ trong CRM, có form nhận khách hàng tiềm năng, và hướng dẫn sử dụng theo vai trò cho bộ phận kinh doanh và kỹ thuật. Tự làm một mình.
 - **Hệ thống phân phối đại lý nhiều cấp:** Laravel. Website bán hàng, cổng đại lý và trang quản trị, với hoa hồng 3 tầng, quỹ thưởng ngày, xếp hạng, thanh toán VietQR và sổ ví không sửa được. Tôi làm cả phân tích nghiệp vụ và thiết kế: 14 phân hệ, 607 quy tắc nghiệp vụ, 143 ca sử dụng và 540 ca kiểm thử nghiệm thu. Đã xây xong: sơ đồ cây đại lý, ví và hoa hồng, quỹ thưởng, xếp hạng, rút tiền, combo sản phẩm, hoàn đơn, gia cố bảo mật, CMS có phiên bản và SEO, đã có CI.
+
+## Ngoài code: nghiên cứu, QA và chăm sóc merchant
+
+Phần lớn công việc này nằm trong công cụ quản lý task của team và hệ thống support, nên không hiện trên GitHub. Đây cũng là chỗ tôi tạo ra nhiều giá trị nhất: tôi hiểu merchant thực sự dùng theme như thế nào, và bảo đảm những gì team phát hành chạy đúng cho họ.
+
+**Nghiên cứu merchant để định hướng lộ trình**
+
+- Đã khảo sát hơn 1.000 store đang hoạt động, dùng theme của NextSky và theme của đối thủ.
+- Với mỗi store, tôi xem merchant cài đặt và dùng theme ra sao, gặp lỗi hay khó khăn gì khi setup, và phải cài thêm app bên ngoài cho những tính năng nào vì theme chưa đáp ứng.
+- Phân nhóm merchant theo persona, ví dụ thương hiệu đặc trị, thương hiệu mỹ phẩm xanh và nhà bán lẻ lớn, và mô tả cách mỗi nhóm dựng và dùng store.
+- So sánh với các theme đối thủ trên Shopify Theme Store: độ phủ tính năng, trải nghiệm Theme Editor, hiệu năng và cách code của họ giải quyết cùng một vấn đề.
+- Chuyển kết quả thành backlog có thứ tự ưu tiên. Mỗi task ghi rõ vấn đề của merchant, bằng chứng, tiêu chí nghiệm thu và kế hoạch test, để team làm đúng thứ merchant cần thay vì chạy theo đối thủ.
+- Áp dụng cách làm này cho dự án freelance: với hệ thống đại lý ở trên, tôi viết 607 quy tắc nghiệp vụ và 540 ca kiểm thử nghiệm thu trước khi code.
+
+**Kiểm thử (QA)**
+
+- Viết kế hoạch test, chạy các vòng test và regression trên demo live của theme: mọi template, điều hướng, form, bộ lọc, variant, giỏ hàng, quick view, popup và tìm kiếm.
+- Trước mỗi lần submit lên Shopify Theme Store, tôi test package và kiểm tra Lighthouse, sau đó xử lý phản hồi của đội review.
+- Nghiệm thu công việc của thành viên, kể cả task làm bằng AI, theo definition of done.
+
+**Chăm sóc merchant**
+
+- Trực ticket support cho merchant mua theme của NextSky trên ThemeForest và Shopify Theme Store: tìm nguyên nhân trong store của họ, sửa lỗi và làm các tính năng custom theo yêu cầu.
+- Sau khi xử lý xong, tôi theo dõi lại với merchant và xin đánh giá, giúp giữ điểm đánh giá của theme ở mức cao.
+- Những vấn đề lặp lại trong ticket được đưa vào phần nghiên cứu ở trên và trở thành bản sửa trong lần phát hành tiếp theo.
 
 ## Làm việc cùng AI
 
