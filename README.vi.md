@@ -38,19 +38,7 @@ Theme ngành làm đẹp bán trên Shopify Theme Store (300 USD), 100% đánh g
 - **Lộ trình từ merchant thật:** audit các store đã mua theme (persona, lỗi, tính năng họ dùng chưa được) và viết đặc tả cho các bản cập nhật.
 - **Chất lượng phát hành:** test và nghiệm thu task của thành viên và các team khác, QA từng bản phát hành theo yêu cầu của Shopify Theme Store trước khi submit.
 - **Đội ngũ và merchant:** đào tạo nhân sự mới, viết tài liệu, trực support và làm các yêu cầu custom cho merchant.
-
-Tôi tham gia tất cả các bản phát hành đến 1.6.0, với 196 pull request đã merge từ tháng 10/2025.
-
-| Bản | Phần tôi làm |
-| :--- | :--- |
-| 1.0.x · 10/2025 – 02/2026 | Sửa lỗi sau khi ra mắt; media lightbox, popup before-you-leave, thông báo có hàng lại, bundle dạng lưới. Preset thời trang (Liora): outfit finder và outfit builder, gợi ý size, block model size và product sizing, custom options, preset cards, hệ thống cửa hàng. |
-| 1.0.9 · 03 – 04/2026 | Hỗ trợ ngôn ngữ viết từ phải sang trái (RTL), sửa lỗi accessibility, parallax split, icon box, newsletter popup, lịch sử tìm kiếm và từ khóa phổ biến, trang chính sách, refactor setting của theme block. |
-| 1.1.0 · 04 – 05/2026 | Quick order list, mini cart và trang giỏ hàng, tổng tiền bundle, hiệu ứng khi cuộn, trang giới thiệu tính năng theme, tách CSS thành critical và theme. |
-| 1.2.0 · 06 – 07/2026 | Hệ thống font, popup tìm kiếm, testimonial, block đếm ngược, metrics banner, before-after result, image with text, hiệu ứng lộ slide tiếp theo trong carousel. |
-| 1.3.0 · 08/2026 | Build your routine, sticky content, review showcase, preset story tabs cho flexible section. |
-| 1.4.0 · 08/2026 | Các layout header, thanh free shipping nhiều mốc trong cart và mini cart, review counter, cờ quốc gia lấy từ Shopify thay cho ảnh đóng gói trong theme. |
-| 1.5.0 · 10/2026 | Sửa logic và giao diện thanh free shipping. |
-| 1.6.0 · 10 – 11/2026 | Preset Pet (Yum): giao diện, bố cục và setup demo. Carousel ảnh kèm chữ có slide video, layout "form with image" cho recommended collection, sửa lỗi nháy khi kết thúc hiệu ứng. Chuyển kết quả nghiên cứu merchant thành 25 task cập nhật, kiểm tra lại từng task trên 1.6.0 kèm ảnh chụp Theme Editor, và đã đưa 15 task đầu vào công cụ quản lý task của team. |
+- **Tham gia mọi bản phát hành, đến nay vẫn tiếp tục:** tôi làm tất cả các bản của Purity đến bản 1.6.0 hiện tại và tiếp tục phát triển các bản tiếp theo, với 196 pull request đã merge từ tháng 10/2025.
 
 Có tham gia thêm: Novy, Woomen, Glozin.
 
