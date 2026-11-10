@@ -1,6 +1,6 @@
 <img src="assets/header.svg" alt="Tran Duc Manh, E-commerce Web Developer" width="100%">
 
-I build online stores and the systems behind them, from requirements to handover. Since 08/2024 I have been a Shopify Theme Developer at **NextSky**, where I am a core developer of **Purity**, a paid theme on the Shopify Theme Store. Outside work I take freelance projects: two WooCommerce stores delivered to clients, two Laravel business systems in development, and an open-source WooCommerce store kit.
+I build online stores and the systems behind them, from requirements to handover. Since 08/2024 I have been a Shopify Theme Developer at **NextSky**, where I am a core developer of **Purity**, a paid theme on the Shopify Theme Store, and developed **Laurel**, a new theme now getting its second preset. Outside work I take freelance projects: two WooCommerce stores delivered to clients, two Laravel business systems in development, and an open-source WooCommerce store kit.
 
 [![Email](https://img.shields.io/badge/Email-manhtd.work%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manhtd.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ducmanh02-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ducmanh02/)
@@ -42,13 +42,14 @@ A beauty theme sold on the Shopify Theme Store ($300), rated 100% positive acros
 
 Also contributed to: Novy, Woomen, Glozin.
 
-### Laurel · new NextSky theme (not yet released) · 2026
+### Laurel · Shopify theme · NextSky · 2026
 
 ![Liquid](https://img.shields.io/badge/Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-From 28/10 to 09/11/2026 I merged 120 pull requests on Laurel.
+I developed Laurel, a new NextSky theme (not yet released), and I am finishing its second preset, Victoria. 126 merged pull requests so far.
 
-- **Preset demo from Figma:** product page, homepage, mega menu, product cards, blog, footer and Judge.me reviews, matched to the design on desktop and mobile.
+- **Theme developer:** I built Laurel's sections, blocks and theme settings in Liquid and JavaScript.
+- **Victoria preset, almost done:** built from Figma: product page, homepage, mega menu, product cards, blog, footer and Judge.me reviews, matched to the design on desktop and mobile.
 - **Settings instead of hardcoded CSS:** I turned design differences into theme settings that every preset can use: rating block style, vendor and price position on product cards, mobile heading sizes, progress-line pagination for featured collections, and the footer country picker.
 - **Clean preset CSS:** I removed rules that did nothing and moved sizes to type tokens.
 - **Release flow:** each change lands on the development branch first, then syncs to the live demo branch.

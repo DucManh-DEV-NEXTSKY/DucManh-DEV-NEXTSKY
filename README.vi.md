@@ -1,6 +1,6 @@
 <img src="assets/header.vi.svg" alt="Trần Đức Mạnh, E-commerce Web Developer" width="100%">
 
-Tôi xây dựng website bán hàng và các hệ thống phía sau, từ lúc nhận yêu cầu đến khi bàn giao. Từ 08/2024 tôi là Shopify Theme Developer tại **NextSky**, core developer của **Purity**, một theme trả phí trên Shopify Theme Store. Ngoài giờ tôi nhận dự án freelance: đã bàn giao hai cửa hàng WooCommerce, đang phát triển hai hệ thống nghiệp vụ bằng Laravel và có một bộ khởi tạo cửa hàng WooCommerce mã nguồn mở.
+Tôi xây dựng website bán hàng và các hệ thống phía sau, từ lúc nhận yêu cầu đến khi bàn giao. Từ 08/2024 tôi là Shopify Theme Developer tại **NextSky**, core developer của **Purity**, một theme trả phí trên Shopify Theme Store, và đã phát triển **Laurel**, theme mới đang làm preset thứ hai. Ngoài giờ tôi nhận dự án freelance: đã bàn giao hai cửa hàng WooCommerce, đang phát triển hai hệ thống nghiệp vụ bằng Laravel và có một bộ khởi tạo cửa hàng WooCommerce mã nguồn mở.
 
 [![Email](https://img.shields.io/badge/Email-manhtd.work%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manhtd.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ducmanh02-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ducmanh02/)
@@ -42,13 +42,14 @@ Theme ngành làm đẹp bán trên Shopify Theme Store (300 USD), 100% đánh g
 
 Có tham gia thêm: Novy, Woomen, Glozin.
 
-### Laurel · theme mới của NextSky (chưa phát hành) · 2026
+### Laurel · Shopify theme · NextSky · 2026
 
 ![Liquid](https://img.shields.io/badge/Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-Từ 28/10 đến 09/11/2026 tôi đã merge 120 pull request vào Laurel.
+Tôi đã phát triển Laurel, một theme mới của NextSky (chưa phát hành), và đang hoàn thiện preset thứ hai là Victoria. Đến nay đã merge 126 pull request.
 
-- **Demo preset theo Figma:** trang sản phẩm, trang chủ, mega menu, thẻ sản phẩm, blog, footer và đánh giá Judge.me, khớp thiết kế trên desktop và mobile.
+- **Phát triển theme:** xây các section, block và setting của Laurel bằng Liquid và JavaScript.
+- **Preset Victoria, sắp hoàn thành:** dựng theo Figma: trang sản phẩm, trang chủ, mega menu, thẻ sản phẩm, blog, footer và đánh giá Judge.me, khớp thiết kế trên desktop và mobile.
 - **Setting thay cho CSS cứng:** chuyển các điểm khác biệt của thiết kế thành setting dùng được cho mọi preset: kiểu block đánh giá, vị trí vendor và giá trên thẻ sản phẩm, cỡ tiêu đề trên mobile, phân trang dạng thanh tiến trình cho featured collection, bộ chọn quốc gia ở footer.
 - **CSS preset gọn:** bỏ các rule không có tác dụng và chuyển cỡ chữ sang type token.
 - **Quy trình phát hành:** mỗi thay đổi vào nhánh phát triển trước, sau đó đồng bộ sang nhánh demo live.
