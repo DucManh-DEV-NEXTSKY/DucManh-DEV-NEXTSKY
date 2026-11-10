@@ -1,6 +1,17 @@
 <img src="assets/header.vi.svg" alt="Trần Đức Mạnh, E-commerce Web Developer" width="100%">
 
-Tôi xây dựng website bán hàng và các hệ thống phía sau, từ lúc nhận yêu cầu đến khi bàn giao. Từ 08/2024 tôi là Shopify Theme Developer tại **NextSky**, core developer của **Purity**, một theme trả phí trên Shopify Theme Store, và đã phát triển **Laurel**, theme mới đang làm preset thứ hai. Ngoài giờ tôi nhận dự án freelance: đã bàn giao hai cửa hàng WooCommerce, đang phát triển hai hệ thống nghiệp vụ bằng Laravel và có một bộ khởi tạo cửa hàng WooCommerce mã nguồn mở.
+**E-commerce Web Developer · Shopify Theme Developer** với hơn 2 năm làm việc tại **NextSky**, đội phát triển và bán theme Shopify trên Shopify Theme Store và ThemeForest. Tôi xây theme mà merchant trả tiền để dùng, quyết định nội dung mỗi bản cập nhật từ dữ liệu store thật, và test cho đến khi Shopify duyệt. Ngoài giờ tôi nhận dự án freelance WordPress / WooCommerce và hệ thống nghiệp vụ Laravel, làm từ lúc nhận yêu cầu đến khi bàn giao.
+
+**Tóm tắt nhanh**
+
+- Core developer của **Purity**, theme 300 USD trên Shopify Theme Store, 100% đánh giá tích cực trên 137 đánh giá của merchant. Tôi tham gia mọi bản phát hành đến 1.6.0 (196 pull request đã merge) và tiếp tục phát triển các bản tiếp theo.
+- Đã phát triển **Laurel**, theme mới của NextSky, và đang hoàn thiện preset thứ hai là Victoria (126 pull request đã merge).
+- Khảo sát **hơn 1.000 store đang hoạt động** để quyết định mỗi bản cập nhật cần sửa và thêm gì: persona, lỗi, khó khăn khi setup, và các tính năng merchant phải mua app để có.
+- QA cho các lần submit lên Shopify Theme Store: kế hoạch test, regression, Theme Check, Lighthouse, rồi xử lý phản hồi của đội review cho đến khi được duyệt.
+- Chăm sóc merchant trên ThemeForest và Shopify Theme Store: xử lý ticket, sửa lỗi và làm tính năng custom.
+- Freelance: bàn giao trọn gói 2 cửa hàng WooCommerce, 2 hệ thống nghiệp vụ Laravel và một bộ khởi tạo cửa hàng WooCommerce mã nguồn mở.
+
+**Vị trí phù hợp:** Shopify Theme Developer / Shopify Developer · Front-end Developer mảng thương mại điện tử · WordPress / WooCommerce Developer · Business Analyst hoặc QA kỹ thuật cho sản phẩm thương mại điện tử. Sẵn sàng làm full-time và freelance.
 
 [![Email](https://img.shields.io/badge/Email-manhtd.work%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manhtd.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ducmanh02-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ducmanh02/)
@@ -21,7 +32,7 @@ Tôi xây dựng website bán hàng và các hệ thống phía sau, từ lúc n
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
-Ngoài ra: QA, Theme Check, Shopify Theme Store review, Online Store 2.0, theme blocks, Shopify CLI.
+**Từ khóa:** Shopify, Liquid, Online Store 2.0, theme blocks, Shopify CLI, Theme Check, Shopify Theme Store submission, Figma to code, JavaScript, Web Components, HTML5, CSS, SCSS, Tailwind CSS, responsive design, Lighthouse, Core Web Vitals, accessibility, RTL và theme đa ngôn ngữ, WordPress, WooCommerce, PHP, Laravel, Filament, Livewire, PostgreSQL, MySQL, Git, phân tích nghiệp vụ (BA), nghiên cứu người dùng, persona, phân tích đối thủ, đặc tả yêu cầu và tiêu chí nghiệm thu, kế hoạch test, regression testing, acceptance testing, chăm sóc khách hàng, Claude Code, Cursor, Codex.
 
 ---
 

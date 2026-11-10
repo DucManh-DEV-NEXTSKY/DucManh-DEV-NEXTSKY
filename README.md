@@ -1,6 +1,17 @@
 <img src="assets/header.svg" alt="Tran Duc Manh, E-commerce Web Developer" width="100%">
 
-I build online stores and the systems behind them, from requirements to handover. Since 08/2024 I have been a Shopify Theme Developer at **NextSky**, where I am a core developer of **Purity**, a paid theme on the Shopify Theme Store, and developed **Laurel**, a new theme now getting its second preset. Outside work I take freelance projects: two WooCommerce stores delivered to clients, two Laravel business systems in development, and an open-source WooCommerce store kit.
+**E-commerce Web Developer · Shopify Theme Developer** with 2+ years at **NextSky**, a team that sells Shopify themes on the Shopify Theme Store and ThemeForest. I build themes that merchants pay for, decide what goes into them from real store data, and test them until Shopify approves them. Outside work I deliver WordPress / WooCommerce stores and Laravel business systems as a freelancer, from requirements to handover.
+
+**At a glance**
+
+- Core developer of **Purity**, a $300 theme on the Shopify Theme Store rated 100% positive across 137 merchant reviews. I have worked on every release up to 1.6.0 (196 merged pull requests) and keep building the next ones.
+- Developed **Laurel**, a new NextSky theme, and now finishing its second preset, Victoria (126 merged pull requests).
+- Audited **1,000+ live merchant stores** to decide what each update should fix and add: personas, bugs, setup problems, and features merchants had to buy apps for.
+- QA for Shopify Theme Store submissions: test plans, regression, Theme Check and Lighthouse, then the review team's feedback until approval.
+- Merchant support on ThemeForest and the Shopify Theme Store: tickets, fixes and custom features.
+- Freelance: 2 WooCommerce stores delivered end to end, 2 Laravel business systems, and an open-source WooCommerce store kit.
+
+**Roles I fit:** Shopify Theme Developer / Shopify Developer · Front-end Developer for e-commerce · WordPress / WooCommerce Developer · technical Business Analyst or QA for e-commerce products. Open to full-time and freelance work.
 
 [![Email](https://img.shields.io/badge/Email-manhtd.work%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manhtd.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ducmanh02-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ducmanh02/)
@@ -21,7 +32,7 @@ English · [Tiếng Việt](README.vi.md)
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
-Also: QA, Theme Check, Shopify Theme Store review, Online Store 2.0, theme blocks, Shopify CLI.
+**Keywords:** Shopify, Liquid, Online Store 2.0, theme blocks, Shopify CLI, Theme Check, Shopify Theme Store submission, Figma to code, JavaScript, Web Components, HTML5, CSS, SCSS, Tailwind CSS, responsive design, Lighthouse, Core Web Vitals, accessibility, RTL and multilingual themes, WordPress, WooCommerce, PHP, Laravel, Filament, Livewire, PostgreSQL, MySQL, Git, business analysis, user research, personas, competitor analysis, requirements and acceptance criteria, test plans, regression testing, acceptance testing, customer support, Claude Code, Cursor, Codex.
 
 ---
 
