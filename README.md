@@ -97,7 +97,7 @@ Most of this work happens in the team's task tool and the support desk, so it do
 
 **Merchant research that drives the roadmap**
 
-- I have audited more than 1,000 live stores built on our themes and on competing themes.
+- I have audited more than 1,000 live stores built on NextSky themes.
 - For each store I look at how the merchant set the theme up and uses it, which bugs and setup problems they ran into, and which features they had to add with third-party apps because the theme did not cover them.
 - I group merchants into personas, such as specialist skincare brands, clean beauty brands and large retailers, and describe how each one builds and uses its store.
 - I benchmark competing themes on the Shopify Theme Store: feature coverage, Theme Editor experience, performance, and how their code solves the same problems.
@@ -107,7 +107,7 @@ Most of this work happens in the team's task tool and the support desk, so it do
 **Quality assurance**
 
 - I write test plans and run test rounds and regression on theme live demos: every template, navigation, forms, filters, variants, cart, quick view, popups and search.
-- Before each Shopify Theme Store submission I run package tests and Lighthouse checks, then follow up on the review team's feedback.
+- I test each theme against the Shopify Theme Store requirements so it passes review on submission: package tests, Theme Check, Lighthouse performance and accessibility, then I follow up on the review team's feedback until the theme is approved.
 - I accept teammates' work, including tasks built with AI, against its definition of done.
 
 **Merchant support**

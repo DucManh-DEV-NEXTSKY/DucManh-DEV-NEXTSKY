@@ -97,7 +97,7 @@ Phần lớn công việc này nằm trong công cụ quản lý task của team
 
 **Nghiên cứu merchant để định hướng lộ trình**
 
-- Đã khảo sát hơn 1.000 store đang hoạt động, dùng theme của NextSky và theme của đối thủ.
+- Đã khảo sát hơn 1.000 store đang hoạt động dùng theme của NextSky.
 - Với mỗi store, tôi xem merchant cài đặt và dùng theme ra sao, gặp lỗi hay khó khăn gì khi setup, và phải cài thêm app bên ngoài cho những tính năng nào vì theme chưa đáp ứng.
 - Phân nhóm merchant theo persona, ví dụ thương hiệu đặc trị, thương hiệu mỹ phẩm xanh và nhà bán lẻ lớn, và mô tả cách mỗi nhóm dựng và dùng store.
 - So sánh với các theme đối thủ trên Shopify Theme Store: độ phủ tính năng, trải nghiệm Theme Editor, hiệu năng và cách code của họ giải quyết cùng một vấn đề.
@@ -107,7 +107,7 @@ Phần lớn công việc này nằm trong công cụ quản lý task của team
 **Kiểm thử (QA)**
 
 - Viết kế hoạch test, chạy các vòng test và regression trên demo live của theme: mọi template, điều hướng, form, bộ lọc, variant, giỏ hàng, quick view, popup và tìm kiếm.
-- Trước mỗi lần submit lên Shopify Theme Store, tôi test package và kiểm tra Lighthouse, sau đó xử lý phản hồi của đội review.
+- Test theme theo đúng yêu cầu của Shopify Theme Store để đạt khi submit: test package, Theme Check, hiệu năng và accessibility trên Lighthouse, sau đó xử lý phản hồi của đội review cho đến khi theme được duyệt.
 - Nghiệm thu công việc của thành viên, kể cả task làm bằng AI, theo definition of done.
 
 **Chăm sóc merchant**
